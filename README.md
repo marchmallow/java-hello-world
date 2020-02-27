@@ -3,6 +3,11 @@ Simple Hello World to test deployment of jar packages to github package reposito
 
 Github docs: <https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-apache-maven-for-use-with-github-packages>
 
+## Key package deployment settings
+
+* [config/settings.xml](./config/settings.xml)
+* [pom.xml: distributionManagement](https://github.com/marchmallow/java-hello-world/blob/master/pom.xml#L89)
+
 ## Docker build
 
 ### Prereq.
