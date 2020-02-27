@@ -19,7 +19,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <name>GitHub TheWeatherCompany Apache Maven Packages</name>
+          <name>GitHub Apache Maven Packages</name>
           <url>https://maven.pkg.github.com/${env.DEPLOY_REPO}</url>
         </repository>
       </repositories>
